@@ -1,38 +1,55 @@
-.App {
+@import '~antd/dist/antd.css';
+
+.container{
+  width: 60vw;
+  margin: 18vh auto;
+  border: 1px solid grey;
+}
+.text-center{
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.add-category{
+  display: inline-block;
+  padding: 8px 12px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  cursor: pointer;
 }
 
-.App-link {
-  color: #61dafb;
+.cursor{
+  cursor: pointer;
+  padding-right: 5px;
+  padding-left: 4px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.category_input{
+  width: 85%;
+}
+
+.btn-keyword{
+  margin-right: 5px;
+  margin-bottom: 5px;
+  padding: 4px 10px;
+}
+
+.show{
+  display: inline-block;
+  cursor: pointer;
+}
+
+.hidden{
+  display: none;
 }
