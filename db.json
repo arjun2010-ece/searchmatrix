@@ -1,1442 +1,1442 @@
 {
-    "lists": [
-        {
-        "word": "tinnitus",
-        "score": 51691,
-        "tags": [
-        "syn",
-        "n"
-        ]
-        },
-        {
-        "word": "ring",
-        "score": 28491,
-        "tags": [
-        "n"
-        ]
-        },
-        {
-        "word": "cinchonism",
-        "score": 28392,
-        "tags": [
-        "n"
-        ]
-        },
-        {
-        "word": "acouasm",
-        "score": 28091
-        },
-        {
-        "word": "rings",
-        "score": 28091,
-        "tags": [
-        "n"
-        ]
-        },
-        {
-        "word": "singing",
-        "score": 28091,
-        "tags": [
-        "n"
-        ]
-        },
-        {
-        "word": "sing",
-        "score": 28076,
-        "tags": [
-        "v"
-        ]
-        },
-        {
-        "word": "sound",
-        "score": 11691,
-        "tags": [
-        "n",
-        "adj"
-        ]
-        },
-        {
-        "word": "ear",
-        "score": 11634,
-        "tags": [
-        "n"
-        ]
-        },
-        {
-        "word": "hammer",
-        "score": 10662,
-        "tags": [
-        "n"
-        ]
-        },
-        {
-        "word": "jangle",
-        "score": 10662,
-        "tags": [
-        "n",
-        "v"
-        ]
-        },
-        {
-        "word": "mute",
-        "score": 10662,
-        "tags": [
-        "adj"
-        ]
-        },
-        {
-        "word": "are",
-        "score": 10606,
-        "tags": [
-        "n"
-        ]
-        },
-        {
-        "word": "blow",
-        "score": 10606,
-        "tags": [
-        "n",
-        "v"
-        ]
-        },
-        {
-        "word": "bob",
-        "score": 10606,
-        "tags": [
-        "n",
-        "prop"
-        ]
-        },
-        {
-        "word": "bong",
-        "score": 10606,
-        "tags": [
-        "v"
-        ]
-        },
-        {
-        "word": "bright",
-        "score": 10606,
-        "tags": [
-        "adj"
-        ]
-        },
-        {
-        "word": "call",
-        "score": 10606,
-        "tags": [
-        "v",
-        "n"
-        ]
-        },
-        {
-        "word": "chime",
-        "score": 10606,
-        "tags": [
-        "n",
-        "v"
-        ]
-        },
-        {
-        "word": "chiming",
-        "score": 10606,
-        "tags": [
-        "v",
-        "n"
-        ]
-        },
-        {
-        "word": "clam",
-        "score": 10606,
-        "tags": [
-        "n"
-        ]
-        },
-        {
-        "word": "clock",
-        "score": 10606,
-        "tags": [
-        "n"
-        ]
-        },
-        {
-        "word": "ding",
-        "score": 10606,
-        "tags": [
-        "v"
-        ]
-        },
-        {
-        "word": "hinting",
-        "score": 10606,
-        "tags": [
-        "v"
-        ]
-        },
-        {
-        "word": "hunting",
-        "score": 10606,
-        "tags": [
-        "n"
-        ]
-        },
-        {
-        "word": "ido",
-        "score": 10606,
-        "tags": [
-        "n",
-        "prop"
-        ]
-        },
-        {
-        "word": "persistent",
-        "score": 10606,
-        "tags": [
-        "adj"
-        ]
-        },
-        {
-        "word": "phone",
-        "score": 10606,
-        "tags": [
-        "n"
-        ]
-        },
-        {
-        "word": "ping",
-        "score": 10606,
-        "tags": [
-        "n",
-        "v"
-        ]
-        },
-        {
-        "word": "sally",
-        "score": 10606,
-        "tags": [
-        "n",
-        "prop"
-        ]
-        },
-        {
-        "word": "whistle",
-        "score": 10606,
-        "tags": [
-        "n"
-        ]
-        },
-        {
-        "word": "yoke",
-        "score": 10606,
-        "tags": [
-        "n"
-        ]
-        },
-        {
-        "word": "acousma",
-        "score": 10578,
-        "tags": [
-        "n"
-        ]
-        },
-        {
-        "word": "autophony",
-        "score": 10523,
-        "tags": [
-        "n"
-        ]
-        },
-        {
-        "word": "binaural",
-        "score": 10523,
-        "tags": [
-        "adj"
-        ]
-        },
-        {
-        "word": "box",
-        "score": 10523,
-        "tags": [
-        "n"
-        ]
-        },
-        {
-        "word": "buzz",
-        "score": 10523,
-        "tags": [
-        "n"
-        ]
-        },
-        {
-        "word": "buzzing",
-        "score": 10523,
-        "tags": [
-        "adj"
-        ]
-        },
-        {
-        "word": "din",
-        "score": 10523,
-        "tags": [
-        "n"
-        ]
-        },
-        {
-        "word": "drum",
-        "score": 10523,
-        "tags": [
-        "n"
-        ]
-        },
-        {
-        "word": "earplug",
-        "score": 10523,
-        "tags": [
-        "n"
-        ]
-        },
-        {
-        "word": "flap",
-        "score": 10523,
-        "tags": [
-        "n"
-        ]
-        },
-        {
-        "word": "flaps",
-        "score": 10523,
-        "tags": [
-        "n"
-        ]
-        },
-        {
-        "word": "frum",
-        "score": 10523,
-        "tags": [
-        "n"
-        ]
-        },
-        {
-        "word": "headphone",
-        "score": 10523,
-        "tags": [
-        "n"
-        ]
-        },
-        {
-        "word": "headphones",
-        "score": 10523,
-        "tags": [
-        "n"
-        ]
-        },
-        {
-        "word": "heads",
-        "score": 10523,
-        "tags": [
-        "n"
-        ]
-        },
-        {
-        "word": "hear",
-        "score": 10523,
-        "tags": [
-        "v"
-        ]
-        },
-        {
-        "word": "hearing",
-        "score": 10523,
-        "tags": [
-        "n"
-        ]
-        },
-        {
-        "word": "nox",
-        "score": 10523,
-        "tags": [
-        "n"
-        ]
-        },
-        {
-        "word": "rar",
-        "score": 10523,
-        "tags": [
-        "n"
-        ]
-        },
-        {
-        "word": "smap",
-        "score": 10523,
-        "tags": [
-        "n"
-        ]
-        },
-        {
-        "word": "snap",
-        "score": 10523,
-        "tags": [
-        "n",
-        "v"
-        ]
-        },
-        {
-        "word": "sonar",
-        "score": 10523,
-        "tags": [
-        "n"
-        ]
-        },
-        {
-        "word": "stop",
-        "score": 10523,
-        "tags": [
-        "v",
-        "n"
-        ]
-        },
-        {
-        "word": "strike",
-        "score": 10523,
-        "tags": [
-        "n",
-        "v"
-        ]
-        },
-        {
-        "word": "stun",
-        "score": 10523,
-        "tags": [
-        "v"
-        ]
-        },
-        {
-        "word": "stunned",
-        "score": 10523,
-        "tags": [
-        "adj"
-        ]
-        },
-        {
-        "word": "jangling",
-        "score": 10522,
-        "tags": [
-        "adj"
-        ]
-        },
-        {
-        "word": "roller",
-        "score": 10522,
-        "tags": [
-        "n"
-        ]
-        },
-        {
-        "word": "bombus",
-        "score": 10508,
-        "tags": [
-        "n",
-        "prop"
-        ]
-        },
-        {
-        "word": "dichotic",
-        "score": 10508,
-        "tags": [
-        "adj"
-        ]
-        },
-        {
-        "word": "ear hole",
-        "score": 10508,
-        "tags": [
-        "n"
-        ]
-        },
-        {
-        "word": "acoustic",
-        "score": 10494,
-        "tags": [
-        "adj",
-        "n"
-        ]
-        },
-        {
-        "word": "address",
-        "score": 10494,
-        "tags": [
-        "n",
-        "v"
-        ]
-        },
-        {
-        "word": "addressing",
-        "score": 10494,
-        "tags": [
-        "v"
-        ]
-        },
-        {
-        "word": "alveolar",
-        "score": 10494,
-        "tags": [
-        "adj",
-        "n"
-        ]
-        },
-        {
-        "word": "amanita",
-        "score": 10494,
-        "tags": [
-        "n"
-        ]
-        },
-        {
-        "word": "annulus",
-        "score": 10494,
-        "tags": [
-        "n"
-        ]
-        },
-        {
-        "word": "anthelion",
-        "score": 10494,
-        "tags": [
-        "n"
-        ]
-        },
-        {
-        "word": "arcus senilis",
-        "score": 10494,
-        "tags": [
-        "n"
-        ]
-        },
-        {
-        "word": "articulate",
-        "score": 10494,
-        "tags": [
-        "v",
-        "adj"
-        ]
-        },
-        {
-        "word": "articulation",
-        "score": 10494,
-        "tags": [
-        "n"
-        ]
-        },
-        {
-        "word": "asperity",
-        "score": 10494,
-        "tags": [
-        "n"
-        ]
-        },
-        {
-        "word": "audiophile",
-        "score": 10494,
-        "tags": [
-        "n",
-        "adj"
-        ]
-        },
-        {
-        "word": "audiphone",
-        "score": 10494,
-        "tags": [
-        "n"
-        ]
-        },
-        {
-        "word": "auditorium",
-        "score": 10494,
-        "tags": [
-        "n"
-        ]
-        },
-        {
-        "word": "aurally",
-        "score": 10494,
-        "tags": [
-        "adv"
-        ]
-        },
-        {
-        "word": "ban",
-        "score": 10494,
-        "tags": [
-        "n",
-        "v"
-        ]
-        },
-        {
-        "word": "bann",
-        "score": 10494,
-        "tags": [
-        "n",
-        "prop"
-        ]
-        },
-        {
-        "word": "banned",
-        "score": 10494,
-        "tags": [
-        "adj"
-        ]
-        },
-        {
-        "word": "bass drum",
-        "score": 10494,
-        "tags": [
-        "n"
-        ]
-        },
-        {
-        "word": "bat",
-        "score": 10494,
-        "tags": [
-        "n"
-        ]
-        },
-        {
-        "word": "blow out",
-        "score": 10494,
-        "tags": [
-        "v"
-        ]
-        },
-        {
-        "word": "blowball",
-        "score": 10494,
-        "tags": [
-        "n"
-        ]
-        },
-        {
-        "word": "bonk",
-        "score": 10494,
-        "tags": [
-        "v"
-        ]
-        },
-        {
-        "word": "brain",
-        "score": 10494,
-        "tags": [
-        "n"
-        ]
-        },
-        {
-        "word": "bridgework",
-        "score": 10494,
-        "tags": [
-        "n"
-        ]
-        },
-        {
-        "word": "brr",
-        "score": 10494,
-        "tags": [
-        "n"
-        ]
-        },
-        {
-        "word": "buckie",
-        "score": 10494,
-        "tags": [
-        "n"
-        ]
-        },
-        {
-        "word": "but",
-        "score": 10494,
-        "tags": [
-        "adv"
-        ]
-        },
-        {
-        "word": "butt",
-        "score": 10494,
-        "tags": [
-        "n"
-        ]
-        },
-        {
-        "word": "butted",
-        "score": 10494,
-        "tags": [
-        "v"
-        ]
-        },
-        {
-        "word": "cacophony",
-        "score": 10494,
-        "tags": [
-        "n"
-        ]
-        },
-        {
-        "word": "calx",
-        "score": 10494,
-        "tags": [
-        "n"
-        ]
-        },
-        {
-        "word": "cameo",
-        "score": 10494,
-        "tags": [
-        "n"
-        ]
-        },
-        {
-        "word": "cannon",
-        "score": 10494,
-        "tags": [
-        "n"
-        ]
-        },
-        {
-        "word": "canon",
-        "score": 10494,
-        "tags": [
-        "n"
-        ]
-        },
-        {
-        "word": "capital",
-        "score": 10494,
-        "tags": [
-        "n"
-        ]
-        },
-        {
-        "word": "cephalic",
-        "score": 10494,
-        "tags": [
-        "adj"
-        ]
-        }
-        ],
-        "apples": [
-            {
-            "word": "malus pumila",
-            "score": 74561,
-            "tags": [
-            "syn",
-            "n",
-            "prop"
-            ]
-            },
-            {
-            "word": "orchard apple tree",
-            "score": 74561,
-            "tags": [
-            "syn",
-            "n"
-            ]
-            },
-            {
-            "word": "fruit",
-            "score": 71867,
-            "tags": [
-            "n"
-            ]
-            },
-            {
-            "word": "potato",
-            "score": 70525,
-            "tags": [
-            "n"
-            ]
-            },
-            {
-            "word": "potatoes",
-            "score": 66277,
-            "tags": [
-            "n"
-            ]
-            },
-            {
-            "word": "vegetable",
-            "score": 65519,
-            "tags": [
-            "n"
-            ]
-            },
-            {
-            "word": "pomme",
-            "score": 65350,
-            "tags": [
-            "n"
-            ]
-            },
-            {
-            "word": "tree",
-            "score": 64089,
-            "tags": [
-            "n"
-            ]
-            },
-            {
-            "word": "bee",
-            "score": 63763,
-            "tags": [
-            "n"
-            ]
-            },
-            {
-            "word": "pie",
-            "score": 63655,
-            "tags": [
-            "n"
-            ]
-            },
-            {
-            "word": "strudel",
-            "score": 63154,
-            "tags": [
-            "n"
-            ]
-            },
-            {
-            "word": "russet",
-            "score": 62888,
-            "tags": [
-            "n",
-            "adj"
-            ]
-            },
-            {
-            "word": "tart",
-            "score": 62621,
-            "tags": [
-            "n",
-            "adj"
-            ]
-            },
-            {
-            "word": "cobbler",
-            "score": 61226,
-            "tags": [
-            "n"
-            ]
-            },
-            {
-            "word": "seed",
-            "score": 58756,
-            "tags": [
-            "n"
-            ]
-            },
-            {
-            "word": "jewel",
-            "score": 57399,
-            "tags": [
-            "n"
-            ]
-            },
-            {
-            "word": "stayman",
-            "score": 57326,
-            "tags": [
-            "n",
-            "prop"
-            ]
-            },
-            {
-            "word": "babylon",
-            "score": 56687,
-            "tags": [
-            "n",
-            "prop"
-            ]
-            },
-            {
-            "word": "hash",
-            "score": 56621,
-            "tags": [
-            "n"
-            ]
-            },
-            {
-            "word": "bone",
-            "score": 56596,
-            "tags": [
-            "n"
-            ]
-            },
-            {
-            "word": "babel",
-            "score": 56218,
-            "tags": [
-            "n"
-            ]
-            },
-            {
-            "word": "york",
-            "score": 56135,
-            "tags": [
-            "n",
-            "prop"
-            ]
-            },
-            {
-            "word": "head",
-            "score": 56020,
-            "tags": [
-            "n"
-            ]
-            },
-            {
-            "word": "mitt",
-            "score": 55837,
-            "tags": [
-            "n"
-            ]
-            },
-            {
-            "word": "abel",
-            "score": 55477,
-            "tags": [
-            "n",
-            "prop"
-            ]
-            },
-            {
-            "word": "spring",
-            "score": 54623,
-            "tags": [
-            "n"
-            ]
-            },
-            {
-            "word": "appeal",
-            "score": 53350,
-            "tags": [
-            "n"
-            ]
-            },
-            {
-            "word": "heart",
-            "score": 53101,
-            "tags": [
-            "n"
-            ]
-            },
-            {
-            "word": "appel",
-            "score": 52670,
-            "tags": [
-            "n",
-            "prop"
-            ]
-            },
-            {
-            "word": "tator",
-            "score": 50858,
-            "tags": [
-            "n"
-            ]
-            },
-            {
-            "word": "pear",
-            "score": 50857,
-            "tags": [
-            "n",
-            "adj"
-            ]
-            },
-            {
-            "word": "berry",
-            "score": 50855,
-            "tags": [
-            "n"
-            ]
-            },
-            {
-            "word": "peach",
-            "score": 50854,
-            "tags": [
-            "n"
-            ]
-            },
-            {
-            "word": "granny smith",
-            "score": 50853,
-            "tags": [
-            "n",
-            "prop"
-            ]
-            },
-            {
-            "word": "strawberry",
-            "score": 50852,
-            "tags": [
-            "n"
-            ]
-            },
-            {
-            "word": "red delicious",
-            "score": 50851,
-            "tags": [
-            "n"
-            ]
-            },
-            {
-            "word": "blueberry",
-            "score": 50850,
-            "tags": [
-            "n"
-            ]
-            },
-            {
-            "word": "mango",
-            "score": 50849,
-            "tags": [
-            "n"
-            ]
-            },
-            {
-            "word": "banana",
-            "score": 50848,
-            "tags": [
-            "n"
-            ]
-            },
-            {
-            "word": "golden delicious",
-            "score": 50847,
-            "tags": [
-            "n"
-            ]
-            },
-            {
-            "word": "orchard",
-            "score": 50846,
-            "tags": [
-            "n",
-            "adj"
-            ]
-            },
-            {
-            "word": "apple orchard",
-            "score": 50845,
-            "tags": [
-            "n"
-            ]
-            },
-            {
-            "word": "sour cherry",
-            "score": 50844,
-            "tags": [
-            "n"
-            ]
-            },
-            {
-            "word": "concord grape",
-            "score": 50843,
-            "tags": [
-            "n"
-            ]
-            },
-            {
-            "word": "grape",
-            "score": 50841,
-            "tags": [
-            "n"
-            ]
-            },
-            {
-            "word": "cherries",
-            "score": 50840,
-            "tags": [
-            "n"
-            ]
-            },
-            {
-            "word": "melon",
-            "score": 50839,
-            "tags": [
-            "n"
-            ]
-            },
-            {
-            "word": "apricot",
-            "score": 50838,
-            "tags": [
-            "n"
-            ]
-            },
-            {
-            "word": "almond",
-            "score": 50837,
-            "tags": [
-            "n"
-            ]
-            },
-            {
-            "word": "peaches",
-            "score": 50836,
-            "tags": [
-            "n"
-            ]
-            },
-            {
-            "word": "pumpkin",
-            "score": 50835,
-            "tags": [
-            "n"
-            ]
-            },
-            {
-            "word": "tomato",
-            "score": 50834,
-            "tags": [
-            "n"
-            ]
-            },
-            {
-            "word": "loquat",
-            "score": 50833,
-            "tags": [
-            "n"
-            ]
-            },
-            {
-            "word": "kumquats",
-            "score": 50832,
-            "tags": [
-            "n"
-            ]
-            },
-            {
-            "word": "raspberries",
-            "score": 50831,
-            "tags": [
-            "n"
-            ]
-            },
-            {
-            "word": "watermelon",
-            "score": 50830,
-            "tags": [
-            "n"
-            ]
-            },
-            {
-            "word": "grapefruit",
-            "score": 50829,
-            "tags": [
-            "n"
-            ]
-            },
-            {
-            "word": "olive",
-            "score": 50828,
-            "tags": [
-            "n"
-            ]
-            },
-            {
-            "word": "muskmelon",
-            "score": 50827,
-            "tags": [
-            "n"
-            ]
-            },
-            {
-            "word": "kiwi fruit",
-            "score": 50826,
-            "tags": [
-            "n"
-            ]
-            },
-            {
-            "word": "macadamias",
-            "score": 50825,
-            "tags": [
-            "n"
-            ]
-            },
-            {
-            "word": "hazelnut",
-            "score": 50824,
-            "tags": [
-            "n"
-            ]
-            },
-            {
-            "word": "blackberries",
-            "score": 50823,
-            "tags": [
-            "n"
-            ]
-            },
-            {
-            "word": "pippin",
-            "score": 50822,
-            "tags": [
-            "n"
-            ]
-            },
-            {
-            "word": "apple turnover",
-            "score": 50821,
-            "tags": [
-            "n"
-            ]
-            },
-            {
-            "word": "nectarine",
-            "score": 50820,
-            "tags": [
-            "n",
-            "adj"
-            ]
-            },
-            {
-            "word": "satsuma",
-            "score": 50819,
-            "tags": [
-            "n",
-            "prop"
-            ]
-            },
-            {
-            "word": "oranges",
-            "score": 50818,
-            "tags": [
-            "n"
-            ]
-            },
-            {
-            "word": "onion",
-            "score": 50817,
-            "tags": [
-            "n"
-            ]
-            },
-            {
-            "word": "honey crisp",
-            "score": 50816,
-            "tags": [
-            "n"
-            ]
-            },
-            {
-            "word": "pawpaw",
-            "score": 50815,
-            "tags": [
-            "n"
-            ]
-            },
-            {
-            "word": "asparagus",
-            "score": 50814,
-            "tags": [
-            "n"
-            ]
-            },
-            {
-            "word": "rhubarb",
-            "score": 50813,
-            "tags": [
-            "n"
-            ]
-            },
-            {
-            "word": "pistachio",
-            "score": 50812,
-            "tags": [
-            "n"
-            ]
-            },
-            {
-            "word": "persimmons",
-            "score": 50811,
-            "tags": [
-            "n"
-            ]
-            },
-            {
-            "word": "bartlett pear",
-            "score": 50810,
-            "tags": [
-            "n",
-            "prop"
-            ]
-            },
-            {
-            "word": "boysenberries",
-            "score": 50809,
-            "tags": [
-            "n"
-            ]
-            },
-            {
-            "word": "jujubes",
-            "score": 50808,
-            "tags": [
-            "n"
-            ]
-            },
-            {
-            "word": "citrus fruit",
-            "score": 50807,
-            "tags": [
-            "n"
-            ]
-            },
-            {
-            "word": "walnuts",
-            "score": 50806,
-            "tags": [
-            "n"
-            ]
-            },
-            {
-            "word": "pecans",
-            "score": 50805,
-            "tags": [
-            "n"
-            ]
-            },
-            {
-            "word": "plums",
-            "score": 50804,
-            "tags": [
-            "n"
-            ]
-            },
-            {
-            "word": "eclair",
-            "score": 50803,
-            "tags": [
-            "n"
-            ]
-            },
-            {
-            "word": "feijoa",
-            "score": 50802,
-            "tags": [
-            "n"
-            ]
-            },
-            {
-            "word": "guava",
-            "score": 50801,
-            "tags": [
-            "n"
-            ]
-            },
-            {
-            "word": "tangerines",
-            "score": 50800,
-            "tags": [
-            "n"
-            ]
-            },
-            {
-            "word": "cantaloupe",
-            "score": 50799,
-            "tags": [
-            "n"
-            ]
-            },
-            {
-            "word": "dewberries",
-            "score": 50798,
-            "tags": [
-            "n"
-            ]
-            },
-            {
-            "word": "figs",
-            "score": 50797,
-            "tags": [
-            "n"
-            ]
-            },
-            {
-            "word": "mulberries",
-            "score": 50796,
-            "tags": [
-            "n"
-            ]
-            },
-            {
-            "word": "ladyfinger",
-            "score": 50795,
-            "tags": [
-            "n"
-            ]
-            },
-            {
-            "word": "cauliflower",
-            "score": 50794,
-            "tags": [
-            "n"
-            ]
-            },
-            {
-            "word": "cranberry",
-            "score": 50793,
-            "tags": [
-            "n"
-            ]
-            },
-            {
-            "word": "raisin",
-            "score": 50792,
-            "tags": [
-            "n"
-            ]
-            },
-            {
-            "word": "honeydew melon",
-            "score": 50791,
-            "tags": [
-            "n"
-            ]
-            },
-            {
-            "word": "cherry tomato",
-            "score": 50790,
-            "tags": [
-            "n"
-            ]
-            },
-            {
-            "word": "tamarillo",
-            "score": 50789,
-            "tags": [
-            "n"
-            ]
-            },
-            {
-            "word": "nutmeat",
-            "score": 50788,
-            "tags": [
-            "n"
-            ]
-            },
-            {
-            "word": "pomegranate",
-            "score": 50787,
-            "tags": [
-            "n",
-            "adj"
-            ]
-            },
-            {
-            "word": "sloes",
-            "score": 50786,
-            "tags": [
-            "n"
-            ]
-            }
-            ]
-}
+    "lists":[
+       {
+          "word":"tinnitus",
+          "score":51691,
+          "tags":[
+             "syn",
+             "n"
+          ]
+       },
+       {
+          "word":"ring",
+          "score":28491,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"cinchonism",
+          "score":28392,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"acouasm",
+          "score":28091
+       },
+       {
+          "word":"rings",
+          "score":28091,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"singing",
+          "score":28091,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"sing",
+          "score":28076,
+          "tags":[
+             "v"
+          ]
+       },
+       {
+          "word":"sound",
+          "score":11691,
+          "tags":[
+             "n",
+             "adj"
+          ]
+       },
+       {
+          "word":"ear",
+          "score":11634,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"hammer",
+          "score":10662,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"jangle",
+          "score":10662,
+          "tags":[
+             "n",
+             "v"
+          ]
+       },
+       {
+          "word":"mute",
+          "score":10662,
+          "tags":[
+             "adj"
+          ]
+       },
+       {
+          "word":"are",
+          "score":10606,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"blow",
+          "score":10606,
+          "tags":[
+             "n",
+             "v"
+          ]
+       },
+       {
+          "word":"bob",
+          "score":10606,
+          "tags":[
+             "n",
+             "prop"
+          ]
+       },
+       {
+          "word":"bong",
+          "score":10606,
+          "tags":[
+             "v"
+          ]
+       },
+       {
+          "word":"bright",
+          "score":10606,
+          "tags":[
+             "adj"
+          ]
+       },
+       {
+          "word":"call",
+          "score":10606,
+          "tags":[
+             "v",
+             "n"
+          ]
+       },
+       {
+          "word":"chime",
+          "score":10606,
+          "tags":[
+             "n",
+             "v"
+          ]
+       },
+       {
+          "word":"chiming",
+          "score":10606,
+          "tags":[
+             "v",
+             "n"
+          ]
+       },
+       {
+          "word":"clam",
+          "score":10606,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"clock",
+          "score":10606,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"ding",
+          "score":10606,
+          "tags":[
+             "v"
+          ]
+       },
+       {
+          "word":"hinting",
+          "score":10606,
+          "tags":[
+             "v"
+          ]
+       },
+       {
+          "word":"hunting",
+          "score":10606,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"ido",
+          "score":10606,
+          "tags":[
+             "n",
+             "prop"
+          ]
+       },
+       {
+          "word":"persistent",
+          "score":10606,
+          "tags":[
+             "adj"
+          ]
+       },
+       {
+          "word":"phone",
+          "score":10606,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"ping",
+          "score":10606,
+          "tags":[
+             "n",
+             "v"
+          ]
+       },
+       {
+          "word":"sally",
+          "score":10606,
+          "tags":[
+             "n",
+             "prop"
+          ]
+       },
+       {
+          "word":"whistle",
+          "score":10606,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"yoke",
+          "score":10606,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"acousma",
+          "score":10578,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"autophony",
+          "score":10523,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"binaural",
+          "score":10523,
+          "tags":[
+             "adj"
+          ]
+       },
+       {
+          "word":"box",
+          "score":10523,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"buzz",
+          "score":10523,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"buzzing",
+          "score":10523,
+          "tags":[
+             "adj"
+          ]
+       },
+       {
+          "word":"din",
+          "score":10523,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"drum",
+          "score":10523,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"earplug",
+          "score":10523,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"flap",
+          "score":10523,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"flaps",
+          "score":10523,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"frum",
+          "score":10523,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"headphone",
+          "score":10523,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"headphones",
+          "score":10523,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"heads",
+          "score":10523,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"hear",
+          "score":10523,
+          "tags":[
+             "v"
+          ]
+       },
+       {
+          "word":"hearing",
+          "score":10523,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"nox",
+          "score":10523,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"rar",
+          "score":10523,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"smap",
+          "score":10523,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"snap",
+          "score":10523,
+          "tags":[
+             "n",
+             "v"
+          ]
+       },
+       {
+          "word":"sonar",
+          "score":10523,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"stop",
+          "score":10523,
+          "tags":[
+             "v",
+             "n"
+          ]
+       },
+       {
+          "word":"strike",
+          "score":10523,
+          "tags":[
+             "n",
+             "v"
+          ]
+       },
+       {
+          "word":"stun",
+          "score":10523,
+          "tags":[
+             "v"
+          ]
+       },
+       {
+          "word":"stunned",
+          "score":10523,
+          "tags":[
+             "adj"
+          ]
+       },
+       {
+          "word":"jangling",
+          "score":10522,
+          "tags":[
+             "adj"
+          ]
+       },
+       {
+          "word":"roller",
+          "score":10522,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"bombus",
+          "score":10508,
+          "tags":[
+             "n",
+             "prop"
+          ]
+       },
+       {
+          "word":"dichotic",
+          "score":10508,
+          "tags":[
+             "adj"
+          ]
+       },
+       {
+          "word":"ear hole",
+          "score":10508,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"acoustic",
+          "score":10494,
+          "tags":[
+             "adj",
+             "n"
+          ]
+       },
+       {
+          "word":"address",
+          "score":10494,
+          "tags":[
+             "n",
+             "v"
+          ]
+       },
+       {
+          "word":"addressing",
+          "score":10494,
+          "tags":[
+             "v"
+          ]
+       },
+       {
+          "word":"alveolar",
+          "score":10494,
+          "tags":[
+             "adj",
+             "n"
+          ]
+       },
+       {
+          "word":"amanita",
+          "score":10494,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"annulus",
+          "score":10494,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"anthelion",
+          "score":10494,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"arcus senilis",
+          "score":10494,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"articulate",
+          "score":10494,
+          "tags":[
+             "v",
+             "adj"
+          ]
+       },
+       {
+          "word":"articulation",
+          "score":10494,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"asperity",
+          "score":10494,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"audiophile",
+          "score":10494,
+          "tags":[
+             "n",
+             "adj"
+          ]
+       },
+       {
+          "word":"audiphone",
+          "score":10494,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"auditorium",
+          "score":10494,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"aurally",
+          "score":10494,
+          "tags":[
+             "adv"
+          ]
+       },
+       {
+          "word":"ban",
+          "score":10494,
+          "tags":[
+             "n",
+             "v"
+          ]
+       },
+       {
+          "word":"bann",
+          "score":10494,
+          "tags":[
+             "n",
+             "prop"
+          ]
+       },
+       {
+          "word":"banned",
+          "score":10494,
+          "tags":[
+             "adj"
+          ]
+       },
+       {
+          "word":"bass drum",
+          "score":10494,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"bat",
+          "score":10494,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"blow out",
+          "score":10494,
+          "tags":[
+             "v"
+          ]
+       },
+       {
+          "word":"blowball",
+          "score":10494,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"bonk",
+          "score":10494,
+          "tags":[
+             "v"
+          ]
+       },
+       {
+          "word":"brain",
+          "score":10494,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"bridgework",
+          "score":10494,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"brr",
+          "score":10494,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"buckie",
+          "score":10494,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"but",
+          "score":10494,
+          "tags":[
+             "adv"
+          ]
+       },
+       {
+          "word":"butt",
+          "score":10494,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"butted",
+          "score":10494,
+          "tags":[
+             "v"
+          ]
+       },
+       {
+          "word":"cacophony",
+          "score":10494,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"calx",
+          "score":10494,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"cameo",
+          "score":10494,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"cannon",
+          "score":10494,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"canon",
+          "score":10494,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"capital",
+          "score":10494,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"cephalic",
+          "score":10494,
+          "tags":[
+             "adj"
+          ]
+       }
+    ],
+    "apples":[
+       {
+          "word":"malus pumila",
+          "score":74561,
+          "tags":[
+             "syn",
+             "n",
+             "prop"
+          ]
+       },
+       {
+          "word":"orchard apple tree",
+          "score":74561,
+          "tags":[
+             "syn",
+             "n"
+          ]
+       },
+       {
+          "word":"fruit",
+          "score":71867,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"potato",
+          "score":70525,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"potatoes",
+          "score":66277,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"vegetable",
+          "score":65519,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"pomme",
+          "score":65350,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"tree",
+          "score":64089,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"bee",
+          "score":63763,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"pie",
+          "score":63655,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"strudel",
+          "score":63154,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"russet",
+          "score":62888,
+          "tags":[
+             "n",
+             "adj"
+          ]
+       },
+       {
+          "word":"tart",
+          "score":62621,
+          "tags":[
+             "n",
+             "adj"
+          ]
+       },
+       {
+          "word":"cobbler",
+          "score":61226,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"seed",
+          "score":58756,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"jewel",
+          "score":57399,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"stayman",
+          "score":57326,
+          "tags":[
+             "n",
+             "prop"
+          ]
+       },
+       {
+          "word":"babylon",
+          "score":56687,
+          "tags":[
+             "n",
+             "prop"
+          ]
+       },
+       {
+          "word":"hash",
+          "score":56621,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"bone",
+          "score":56596,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"babel",
+          "score":56218,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"york",
+          "score":56135,
+          "tags":[
+             "n",
+             "prop"
+          ]
+       },
+       {
+          "word":"head",
+          "score":56020,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"mitt",
+          "score":55837,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"abel",
+          "score":55477,
+          "tags":[
+             "n",
+             "prop"
+          ]
+       },
+       {
+          "word":"spring",
+          "score":54623,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"appeal",
+          "score":53350,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"heart",
+          "score":53101,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"appel",
+          "score":52670,
+          "tags":[
+             "n",
+             "prop"
+          ]
+       },
+       {
+          "word":"tator",
+          "score":50858,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"pear",
+          "score":50857,
+          "tags":[
+             "n",
+             "adj"
+          ]
+       },
+       {
+          "word":"berry",
+          "score":50855,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"peach",
+          "score":50854,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"granny smith",
+          "score":50853,
+          "tags":[
+             "n",
+             "prop"
+          ]
+       },
+       {
+          "word":"strawberry",
+          "score":50852,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"red delicious",
+          "score":50851,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"blueberry",
+          "score":50850,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"mango",
+          "score":50849,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"banana",
+          "score":50848,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"golden delicious",
+          "score":50847,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"orchard",
+          "score":50846,
+          "tags":[
+             "n",
+             "adj"
+          ]
+       },
+       {
+          "word":"apple orchard",
+          "score":50845,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"sour cherry",
+          "score":50844,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"concord grape",
+          "score":50843,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"grape",
+          "score":50841,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"cherries",
+          "score":50840,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"melon",
+          "score":50839,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"apricot",
+          "score":50838,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"almond",
+          "score":50837,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"peaches",
+          "score":50836,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"pumpkin",
+          "score":50835,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"tomato",
+          "score":50834,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"loquat",
+          "score":50833,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"kumquats",
+          "score":50832,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"raspberries",
+          "score":50831,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"watermelon",
+          "score":50830,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"grapefruit",
+          "score":50829,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"olive",
+          "score":50828,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"muskmelon",
+          "score":50827,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"kiwi fruit",
+          "score":50826,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"macadamias",
+          "score":50825,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"hazelnut",
+          "score":50824,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"blackberries",
+          "score":50823,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"pippin",
+          "score":50822,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"apple turnover",
+          "score":50821,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"nectarine",
+          "score":50820,
+          "tags":[
+             "n",
+             "adj"
+          ]
+       },
+       {
+          "word":"satsuma",
+          "score":50819,
+          "tags":[
+             "n",
+             "prop"
+          ]
+       },
+       {
+          "word":"oranges",
+          "score":50818,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"onion",
+          "score":50817,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"honey crisp",
+          "score":50816,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"pawpaw",
+          "score":50815,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"asparagus",
+          "score":50814,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"rhubarb",
+          "score":50813,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"pistachio",
+          "score":50812,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"persimmons",
+          "score":50811,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"bartlett pear",
+          "score":50810,
+          "tags":[
+             "n",
+             "prop"
+          ]
+       },
+       {
+          "word":"boysenberries",
+          "score":50809,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"jujubes",
+          "score":50808,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"citrus fruit",
+          "score":50807,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"walnuts",
+          "score":50806,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"pecans",
+          "score":50805,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"plums",
+          "score":50804,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"eclair",
+          "score":50803,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"feijoa",
+          "score":50802,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"guava",
+          "score":50801,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"tangerines",
+          "score":50800,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"cantaloupe",
+          "score":50799,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"dewberries",
+          "score":50798,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"figs",
+          "score":50797,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"mulberries",
+          "score":50796,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"ladyfinger",
+          "score":50795,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"cauliflower",
+          "score":50794,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"cranberry",
+          "score":50793,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"raisin",
+          "score":50792,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"honeydew melon",
+          "score":50791,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"cherry tomato",
+          "score":50790,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"tamarillo",
+          "score":50789,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"nutmeat",
+          "score":50788,
+          "tags":[
+             "n"
+          ]
+       },
+       {
+          "word":"pomegranate",
+          "score":50787,
+          "tags":[
+             "n",
+             "adj"
+          ]
+       },
+       {
+          "word":"sloes",
+          "score":50786,
+          "tags":[
+             "n"
+          ]
+       }
+    ]
+ }
