@@ -1,75 +1,46 @@
-import React,{useState, useEffect} from 'react';
+import React,{useState} from 'react';
 import { Modal, Button } from 'antd';
 import axios from 'axios';
 
 export const Table = () => {
+    const [category, setCategory] = useState([
+        // {id: 0, name: 'Arjun'}
+    ]);
+    const [keywords, setKeywords] = useState([
+        // {id: 0, name: 'Keywords',categoryId: 0},
+        // {id: 1, name: 'in',categoryId: 0},
+        // {id: 3, name: 'array',categoryId: 0},
+    ]);
     const [visible, setVisible] = useState(false);
     const [text, setText] = useState("");
-    const [categCount, setCategCount] = useState([]);
-    const [keywords, setKeywords] = useState([]);
-    const [okflag, setOkflag] = useState(false);
-
-    useEffect(() => {
-        console.log("ok flag ", okflag);
-        console.log("categCount", categCount);
-        console.log("keywords", keywords);
-        console.log("text", text);
-        console.log("visible", visible);
-        if(okflag && keywords.length > 0 && visible){
-            console.log("keywords...", keywords);
-            console.log("text...", text);
-            categCount.push({ id: categCount.length, category: text, keywords: keywords});
-            setCategCount(categCount);
-        }
-    }, [okflag, keywords, visible, text])
+    const [okflag, setOkflag] = useState(false); //remove
 
     const showModal = () => {
         setVisible(true);
         setOkflag(true);
-        // categCount.push({ id: categCount.length, category:"", keywords:[]});
-        // setCategCount(categCount);
-        // setText("");
-
     };
 
     async function fetchData(data) {
-
-        const result = await axios(
-            `http://localhost:3004/${data}`
-          );
-        const keywords = result && result.data;
+        const cat_id = category.length
+        setCategory([...category,{id: cat_id, name: data}])        
         setOkflag(false);
-        let totalScore = keywords && keywords.map(el => {
-            return el.score;
-        })
-        totalScore.sort(function(a, b) {
-            return b - a;
-        });
-        const keywordsWords = totalScore.slice(0, 10).map(el => {
-            return (keywords.map(kw => {
-                if(el === kw.score){
-                    return kw.word;
-                }
-            })).filter(word => {
-                return word !== undefined
-            });
-        });
-        const flattenKeywords = [...new Set(keywordsWords.flat())];
-        setKeywords(flattenKeywords);
+        const result = await axios(`http://localhost:3004/${data}`);
+        const newKeywords = result?.data.map(d=>({...d,categoryId:cat_id})) || [];
+        const key_id = keywords.length
+        const sortedKeywords = newKeywords
+            .sort((a,b)=>b.score-a.score)
+            .slice(0, 10)
+            .map(({word,score,categoryId},i)=>({name:word,score,categoryId,id:key_id+i}))
+        
+        setKeywords([...keywords,...sortedKeywords]);
+        setText('');
         setOkflag(true);
-        setText(data);
     }
 
 
     const handleOk = e => {
         fetchData(text);
         setVisible(false);
-        // setOkflag(true);
-        // console.log("Comming...");
-        // console.log(keywords);
-        // categCount.push({ id: categCount.length, category: text, keywords: keywords});
-        // setCategCount(categCount);
-        // setText("");
     };
 
     const handleChange = (e) => {
@@ -79,11 +50,15 @@ export const Table = () => {
     const handleCancel = e => {
         setVisible(false);
       };
-    //   console.log("categ count :", categCount);
 
-    const handleDelete = () => {
-        console.log("AJJAJ");
+    const handleKeywordDelete = (id) => {
+        setKeywords(keywords.filter(c=>c.id!==id))
     }
+    const handleCategoryDelete = (id) => {
+        setCategory(category.filter(c=>c.id!==id))
+        setKeywords(keywords.filter(k=>k.categoryId!==id))
+    }
+    
     return (
         <div>
             <table>
@@ -96,28 +71,21 @@ export const Table = () => {
                 </thead>
 
                 <tbody>
-                    <tr>
-                        <td>Arjun category</td>
-                        <td>Keywords in array</td>
+                    {category.map(({id, name}) => (
+                    <tr key={id}>
+                        <td>
+                            <div>
+                                {name}
+                                <span className="fa fa-close cursor" onClick={()=>handleCategoryDelete(id)}></span>
+                            </div>
+                        </td>
+                        <td>{keywords.filter(k=>k.categoryId===id).map(({id,name})=>(
+                            <button key={id} className="btn-keyword">
+                                {name} <span className="fa fa-close cursor" onClick={()=>handleKeywordDelete(id)}></span>
+                            </button>
+                        ))}</td>
                     </tr>
-
-                    {
-                        categCount.map((el, i) => (
-                        <tr key={i}>
-                            <td>{el.category}</td>
-
-                            <td>
-                                {
-                                    Array.isArray(el.keywords) && el.keywords.map((el, i) => (
-                                        <button key={i} className="btn-keyword">
-                                            {el} <span className="fa fa-close cursor" onClick={()=>handleDelete(i)}></span>
-                                        </button>
-                                    ))
-                                }
-                            </td>
-                        </tr>
-                        ))
-                    }
+                    ))}
                 </tbody>
             </table>
 
