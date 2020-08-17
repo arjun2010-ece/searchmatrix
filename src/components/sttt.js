@@ -5,29 +5,34 @@ import axios from 'axios';
 export const Table = () => {
     const [visible, setVisible] = useState(false);
     const [text, setText] = useState("");
-    const [categCount, setCategCount] = useState([]);
+    const [categories, setcategories] = useState([{
+        'category': 'Arjun category',
+        'keywords': [{id:1,key:'Keywords'}, {id:1,key:'in'}, {id:1,key:'array'}]
+
+    }]);
+    debugger
     const [keywords, setKeywords] = useState([]);
     const [okflag, setOkflag] = useState(false);
 
-    useEffect(() => {
-        console.log("ok flag ", okflag);
-        console.log("categCount", categCount);
-        console.log("keywords", keywords);
-        console.log("text", text);
-        console.log("visible", visible);
-        if(okflag && keywords.length > 0 && visible){
-            console.log("keywords...", keywords);
-            console.log("text...", text);
-            categCount.push({ id: categCount.length, category: text, keywords: keywords});
-            setCategCount(categCount);
-        }
-    }, [okflag, keywords, visible, text])
+    // useEffect(() => {
+    //     console.log("ok flag ", okflag);
+    //     console.log("categories", categories);
+    //     console.log("keywords", keywords);
+    //     console.log("text", text);
+    //     console.log("visible", visible);
+    //     if(okflag && keywords.length > 0 && visible){
+    //         console.log("keywords...", keywords);
+    //         console.log("text...", text);
+    //         categories.push({ id: categories.length, category: text, keywords: keywords});
+    //         setcategories(categories);
+    //     }
+    // }, [okflag, keywords, visible, text])
 
     const showModal = () => {
         setVisible(true);
         setOkflag(true);
-        // categCount.push({ id: categCount.length, category:"", keywords:[]});
-        // setCategCount(categCount);
+        // categories.push({ id: categories.length, category:"", keywords:[]});
+        // setcategories(categories);
         // setText("");
 
     };
@@ -64,12 +69,7 @@ export const Table = () => {
     const handleOk = e => {
         fetchData(text);
         setVisible(false);
-        // setOkflag(true);
-        // console.log("Comming...");
-        // console.log(keywords);
-        // categCount.push({ id: categCount.length, category: text, keywords: keywords});
-        // setCategCount(categCount);
-        // setText("");
+        setText('')
     };
 
     const handleChange = (e) => {
@@ -79,7 +79,7 @@ export const Table = () => {
     const handleCancel = e => {
         setVisible(false);
       };
-    //   console.log("categ count :", categCount);
+    //   console.log("categ count :", categories);
 
     const handleDelete = () => {
         console.log("AJJAJ");
@@ -96,21 +96,20 @@ export const Table = () => {
                 </thead>
 
                 <tbody>
-                    <tr>
+                    {/* <tr>
                         <td>Arjun category</td>
                         <td>Keywords in array</td>
-                    </tr>
+                    </tr> */}
 
                     {
-                        categCount.map((el, i) => (
+                        categories.map((el, i) => (
                         <tr key={i}>
                             <td>{el.category}</td>
-
                             <td>
                                 {
-                                    Array.isArray(el.keywords) && el.keywords.map((el, i) => (
-                                        <button key={i} className="btn-keyword">
-                                            {el} <span className="fa fa-close cursor" onClick={()=>handleDelete(i)}></span>
+                                    Array.isArray(el.keywords) && el.keywords.map((el) => (
+                                        <button key={el.id} className="btn-keyword">
+                                            {el.key} <span className="fa fa-close cursor" onClick={()=>handleDelete(el.id)}></span>
                                         </button>
                                     ))
                                 }
