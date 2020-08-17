@@ -13,34 +13,31 @@ export const Table = () => {
     ]);
     const [visible, setVisible] = useState(false);
     const [text, setText] = useState("");
-    const [okflag, setOkflag] = useState(false); //remove
 
     const showModal = () => {
         setVisible(true);
-        setOkflag(true);
     };
 
     async function fetchData(data) {
         const cat_id = category.length
         setCategory([...category,{id: cat_id, name: data}])        
-        setOkflag(false);
         const result = await axios(`http://localhost:3004/${data}`);
-        const newKeywords = result?.data.map(d=>({...d,categoryId:cat_id})) || [];
+				const newKeywords = result?.data.map(d=>({...d,categoryId:cat_id})) || [];
         const key_id = keywords.length
         const sortedKeywords = newKeywords
             .sort((a,b)=>b.score-a.score)
             .slice(0, 10)
             .map(({word,score,categoryId},i)=>({name:word,score,categoryId,id:key_id+i}))
-        
+				
+					// debugger;
         setKeywords([...keywords,...sortedKeywords]);
-        setText('');
-        setOkflag(true);
     }
 
 
     const handleOk = e => {
         fetchData(text);
-        setVisible(false);
+				setVisible(false);
+        setText('');
     };
 
     const handleChange = (e) => {
@@ -58,7 +55,7 @@ export const Table = () => {
         setCategory(category.filter(c=>c.id!==id))
         setKeywords(keywords.filter(k=>k.categoryId!==id))
     }
-    
+    console.log("categories...", category);
     return (
         <div>
             <table>
@@ -100,7 +97,7 @@ export const Table = () => {
                 onCancel={handleCancel}
             >
                 <label htmlFor="category"> Please enter the category:{" "}
-                    <input type="text" id="category" name="category" onChange={handleChange} />
+                    <input type="text" id="category" name="category" onChange={handleChange} value={text} />
                 </label>
             </Modal>
         </div>
